@@ -38,13 +38,13 @@ At the start of the fight, put the orange circle marker down somewhere on the ed
 
 ## The Dark Bastille
 ### Soulrender Dormazain
-`/i When Shackles appear, right click to grab them and run away to break the chain. When the floor is covered in red, look for the clear pizza slice and stand there.`
+`/i When Shackles appear, right click to grab them and run away to break the chain. When the floor is covered in red, look for the clear pizza slice and stand there. It can happen once, or a "dance" of five times in a row.`
 
-`/i if you get a Brand (red square) around you, move away from other players. Try to put the square over adds, it makes them take extra damage. Grip/shove the adds together, interrupt and kill them.`
+`/i If you get a Brand (red square) around you, move away from other players. Try to put the square over adds, it makes them take extra damage. Grip/shove the adds together, interrupt and kill them.`
 
 
 ### Remnant of Ner'zhul
-`/i STAY INSIDE THE CENTER CIRCLE AT ALL TIMES or you will get knocked off the platform. When Malevolence is dispelled, everyone will be knocked AWAY from that player. DON'T DISPELL when someone is near an edge, you will kill them.`
+`/i STAY INSIDE THE CENTER CIRCLE AT ALL TIMES or you will get knocked off the platform. When Malevolence is dispelled, everyone will be knocked AWAY from that player. DON'T DISPELL when anyone is near an edge, you will kill them.`
 
 `/i When orbs come out, wait until the tank hits them with Suffering, then kill them. One player picks up dead orbs and takes them to the edge to throw off (extra action button).`
 
