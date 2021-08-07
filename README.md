@@ -25,9 +25,11 @@ A brief set of notes you can copy/paste into your Sanctum of Domination LFR to h
 
 
 ### The Nine
-`/i Focus the little add when it comes out. Interrupt Song of Dissolution on Signe. If you get pushed out, run into the circle. If you get pulled in, run out.`
+At the start of the fight, put the orange circle marker down along the side of the room.
 
-`/i Four purple circles around the room -> one person soaks each. Swirly blue circle around you -> MOVE IN and SHARE DAMAGE with others. Giant purple circle around you -> run out - you're a bomb. Dodge the other lines and circles on the ground.`
+`/i Focus the little add when it comes out. Interrupt Song of Dissolution on Signe. If you get pushed out, run into the boss circle. If you get pulled in, run out of the boss circle.`
+
+`/i Four purple circles around the room -> one person soaks each. Swirly blue circle around you -> MOVE IN and SHARE DAMAGE with others. Giant purple circle around you -> run out - you're a bomb. Dodge the other lines and puddles on the ground.`
 
 `/i If you get a Fragment of Destiny debuff, RUN OUT and join the other two players at the Orange Circle marker. Healers, WAIT to dispel until they're together.`
 
