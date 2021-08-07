@@ -44,9 +44,9 @@ At the start of the fight, put the orange circle marker down somewhere on the ed
 
 
 ### Remnant of Ner'zhul
-`/i When orbs come out, wait until the tank hits them with Suffering, then kill them. One player picks up dead orbs and takes them to the edge to throw off (extra action button).`
-
 `/i STAY INSIDE THE CENTER CIRCLE AT ALL TIMES or you will get knocked off the platform. When Malevolence is dispelled, everyone will be knocked AWAY from that player. DON'T DISPELL when someone is near an edge, you will kill them.`
+
+`/i When orbs come out, wait until the tank hits them with Suffering, then kill them. One player picks up dead orbs and takes them to the edge to throw off (extra action button).`
 
 `/i Don't be in front of the boss. Hero on pull. Dodge the crap on the ground.`
 
@@ -54,7 +54,7 @@ At the start of the fight, put the orange circle marker down somewhere on the ed
 ### Painsmith Raznal
 It is very helpful if the raid lead or assistant puts a world marker on the center square along each side. It makes it much easier to spot the center ball.
 
-`/i Spikes will come out of the floor in patterns. Watch the pattern, and move to avoid the spikes. Dodge the red swirlies too. During transition, just dodge spikes - you can't hit the boss.`
+`/i Spikes will come out of the floor in patterns. Watch the pattern, and move to avoid the spikes. Dodge the red swirlies too. Try not to stand on edges of the platform. During transition, just dodge spikes - you can't hit the boss.`
 
 `/i When the Spiked Balls come out, DO NOT TOUCH THEM, you will instantly die. Focus the CENTER BALL. Kill it and run through to the other side.`
 
