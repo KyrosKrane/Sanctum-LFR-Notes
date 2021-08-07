@@ -17,13 +17,13 @@ While clearing trash, encourage people to pick up the Ever Beating Heart or The 
 
 `/i When the floor goes black, run to the clear spot. If you get Chains of Eternity, hide behind someone with the Ever Beating Heart or The Stone Heart anima powers.`
 
-`/i If you get a purple circle around you, RUN AWAY from other players - you'll fear them. Hero at 35% when he enrages.`
+`/i If you get a purple circle around you, RUN AWAY from other players - you'll fear them. Hero on pull.`
 
 
 ### Eye of the Jailer
 `/i Dodge the blue puddles; if you get hit, touch your clones to remove the snare. When he does the giant eye laser, run to the sides and use the extra action button to jump to the other platform.`
 
-`/i When the eye adds come out, split up and kill the adds at the same time. If you get a Desolation Beam (white circle) on you, run away from other players.`
+`/i When the eye adds come out, tanks will keep them on opposite sides of the room. Split up and kill the adds at the same time. If you get a Desolation Beam (white circle) on you, run away from other players.`
 
 
 ### The Nine
