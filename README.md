@@ -13,6 +13,8 @@ A brief set of notes you can copy/paste into your Sanctum of Domination LFR to h
 
 ## The Jailer's Vanguard
 ### The Tarragrue
+While clearing trash, encourage people to pick up the Ever Beating Heart or The Stone Heart anima powers - it's much easier if everyone has one of those.
+
 `/i When the floor goes black, run to the clear spot. If you get Chains of Eternity, hide behind someone with the Ever Beating Heart or The Stone Heart anima powers.`
 
 `/i If you get a purple circle around you, RUN AWAY from other players - you'll fear them. Hero at 35% when he enrages.`
@@ -21,11 +23,11 @@ A brief set of notes you can copy/paste into your Sanctum of Domination LFR to h
 ### Eye of the Jailer
 `/i Dodge the blue puddles; if you get hit, touch your clones to remove the snare. When he does the giant eye laser, run to the sides and use the extra action button to jump to the other platform.`
 
-`/i When the eye adds come out, split up and kill the adds together. If you get a Desolation Beam on you, run away from other players.`
+`/i When the eye adds come out, split up and kill the adds at the same time. If you get a Desolation Beam (white circle) on you, run away from other players.`
 
 
 ### The Nine
-At the start of the fight, put the orange circle marker down along the side of the room.
+At the start of the fight, put the orange circle marker down somewhere on the edge of the room.
 
 `/i Focus the little add when it comes out. Interrupt Song of Dissolution on Signe. If you get pushed out, run into the boss circle. If you get pulled in, run out of the boss circle.`
 
@@ -48,7 +50,7 @@ At the start of the fight, put the orange circle marker down along the side of t
 
 
 ### Painsmith Raznal
-It is very helpful if the raid lead puts a world marker on the center square along each side. It makes it much easier to spot the center ball.
+It is very helpful if the raid lead or assistant puts a world marker on the center square along each side. It makes it much easier to spot the center ball.
 
 `/i Spikes will come out of the floor in patterns. Watch the pattern, and move to avoid the spikes. Dodge the red swirlies too. During transition, just dodge spikes - you can't hit the boss.`
 
