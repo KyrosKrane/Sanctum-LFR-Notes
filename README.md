@@ -54,7 +54,7 @@ At the start of the fight, put the orange circle marker down somewhere on the ed
 ### Painsmith Raznal
 It is very helpful if the raid lead or assistant puts a world marker on the center square along each side. It makes it much easier to spot the center ball.
 
-`/i Spikes will come out of the floor in patterns. Watch the pattern, and move to avoid the spikes. Dodge the red swirlies too. Try not to stand on edges of the platform. During transition, just dodge spikes - you can't hit the boss.`
+`/i Spikes will come out of the floor in patterns. Watch the pattern, and move to avoid the spikes. Try not to stand on edges of the platform. During transition, just dodge spikes and red swirlies - you can't hit the boss.`
 
 `/i When the Spiked Balls come out, DO NOT TOUCH THEM, you will instantly die. Focus the CENTER BALL. Kill it and run through to the other side.`
 
