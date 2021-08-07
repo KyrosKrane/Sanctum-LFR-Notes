@@ -44,9 +44,11 @@ At the start of the fight, put the orange circle marker down somewhere on the ed
 
 
 ### Remnant of Ner'zhul
-`/i If you get Malevolence, RUN TO AN EDGE and face out. Everyone else move towards the player. When dispelled, everyone will be knocked AWAY from that player. Dodge the crap on the ground.`
-
 `/i When orbs come out, wait until the tank hits them with Suffering, then kill them. One player picks up dead orbs and takes them to the edge to throw off (extra action button).`
+
+`/i STAY INSIDE THE CENTER CIRCLE AT ALL TIMES or you will get knocked off the platform. When Malevolence is dispelled, everyone will be knocked AWAY from that player. DON'T DISPELL when someone is near an edge, you will kill them.`
+
+`/i Don't be in front of the boss. Hero on pull. Dodge the crap on the ground.`
 
 
 ### Painsmith Raznal
