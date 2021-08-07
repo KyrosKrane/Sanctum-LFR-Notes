@@ -48,6 +48,10 @@ At the start of the fight, put the orange circle marker down along the side of t
 
 
 ### Painsmith Raznal
+It is very helpful if the raid lead puts a world marker on the center square along each side. It makes it much easier to spot the center ball.
+
 `/i Spikes will come out of the floor in patterns. Watch the pattern, and move to avoid the spikes. Dodge the red swirlies too. During transition, just dodge spikes - you can't hit the boss.`
 
 `/i When the Spiked Balls come out, DO NOT TOUCH THEM, you will instantly die. Focus the CENTER BALL. Kill it and run through to the other side.`
+
+`/i If you get chains around you, stay away from other players - you will knock them around. You go LAST through the spiked balls. Hero on phase 3.`
