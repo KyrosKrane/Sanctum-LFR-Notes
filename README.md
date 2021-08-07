@@ -37,16 +37,16 @@ At the start of the fight, put the orange circle marker down somewhere on the ed
 
 
 ## The Dark Bastille
-### Remnant of Ner'zhul
-`/i If you get Malevolence, RUN TO AN EDGE and face out. Everyone else move towards the player. When dispelled, everyone will be knocked AWAY from that player. Dodge the crap on the ground.`
-
-`/i When orbs come out, wait until the tank hits them with Suffering, then kill them. One player picks up dead orbs and takes them to the edge to throw off (extra action button).`
-
-
 ### Soulrender Dormazain
 `/i When Shackles appear, right click to grab them and run away to break the chain. When the floor is covered in red, look for the clear pizza slice and stand there.`
 
 `/i if you get a Brand (red square) around you, move away from other players. Try to put the square over adds, it makes them take extra damage. Grip/shove the adds together, interrupt and kill them.`
+
+
+### Remnant of Ner'zhul
+`/i If you get Malevolence, RUN TO AN EDGE and face out. Everyone else move towards the player. When dispelled, everyone will be knocked AWAY from that player. Dodge the crap on the ground.`
+
+`/i When orbs come out, wait until the tank hits them with Suffering, then kill them. One player picks up dead orbs and takes them to the edge to throw off (extra action button).`
 
 
 ### Painsmith Raznal
