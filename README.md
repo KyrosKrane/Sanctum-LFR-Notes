@@ -56,6 +56,6 @@ It is very helpful if the raid lead or assistant puts a world marker on the cent
 
 `/i Spikes will come out of the floor in patterns. Watch the pattern, and move to avoid the spikes. Try not to stand on edges of the platform. During transition, just dodge spikes and red swirlies - you can't hit the boss.`
 
-`/i When the Spiked Balls come out, DO NOT TOUCH THEM, you will instantly die. Focus the CENTER BALL. Kill it and run through to the other side.`
+`/i When the Spiked Balls come out, DO NOT TOUCH THEM, you will die. Focus the CENTER BALL. Kill it and run through to the other side.`
 
-`/i If you get chains around you, stay away from other players - you will knock them around. You go LAST through the spiked balls. Hero on phase 3.`
+`/i If you get chains around you, stay away from other players - you will damage them. You go LAST through the spiked balls. Hero on phase 3.`
