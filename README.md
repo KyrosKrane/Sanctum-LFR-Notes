@@ -73,8 +73,9 @@ It is very helpful if the raid lead or assistant puts a world marker on the cent
 
 
 ### Fatescribe Roh-Kalo
+`/i Dodge the black beams. Careful, they go all the way across the room, but you can only see half of them. Kill adds as soon as they spawn. Dodge crap on the ground. Save hero for phase 3.`
 
-
+`/i When the rings activate, ONE PLAYER stands on each rune. Keep following the rune as it rotates into its hexagon slot. WE MUST COMPLETE ALL THE RINGS OR WE WIPE. Everyone else, kill the adds.`
 
 
 ### Kel'Thuzad
