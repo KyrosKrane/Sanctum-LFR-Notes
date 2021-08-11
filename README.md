@@ -79,6 +79,6 @@ It is very helpful if the raid lead or assistant puts a world marker on the cent
 
 
 ### Kel'Thuzad
+`/i KILL THE TANK CLONES IMMEDIATELY. Stack on the Frost Blast target to share damage - if rooted; use escapes or wait. If you get a circle around you, move away from other players. Dodge crap on the ground. Hero on P3.`
 
-
-
+`/i When the giant green circle opens, half the DPS and heals go inside using the extra action button. Kill the remnant, then get out when it explodes. Outside people, kill adds and interrupt their casts. Rinse and repeat 3 times.`
