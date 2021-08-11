@@ -9,6 +9,10 @@ A brief set of notes you can copy/paste into your Sanctum of Domination LFR to h
   * [Remnant of Ner'zhul](#remnant-of-nerzhul)
   * [Soulrender Dormazain](#soulrender-dormazain)
   * [Painsmith Raznal](#painsmith-raznal)
+- [Shackles of Fate](#shackles-of-fate)
+  * [Guardian of the First Ones](#guardian-of-the-first-ones)
+  * [Fatescribe Roh-Kalo](#fatescribe-roh-kalo)
+  * [Kel'Thuzad](#kelthuzad)
 
 
 ## The Jailer's Vanguard
@@ -59,3 +63,25 @@ It is very helpful if the raid lead or assistant puts a world marker on the cent
 `/i When the Spiked Balls come out, DO NOT TOUCH THEM, you will die. Focus the CENTER BALL. Kill it and run through to the other side.`
 
 `/i If you get chains around you, stay away from other players - you will damage them. You go LAST through the spiked balls. Hero on phase 3.`
+
+
+## Shackles of Fate
+### Guardian of the First Ones
+`/i Stay away from the giant pillars. When the boss does Purging Protocol, the tanks will move the boss to a pillar. Stand in the white circle until the pillar shatters, then run away from the explosion.`
+
+`/i NEVER STAND ON THE TANKS. Run out if you get a yellow circle around you; you're a bomb, DON'T STACK! Dodge the white lines and the glowy orb floating around. Hero on pull.`
+
+
+### Fatescribe Roh-Kalo
+`/i Dodge the black beams. Careful, they go all the way across the room, but you can only see half of them. FOCUS ADDS ALWAYS. Dodge the circles and orbs. Save hero for phase 3.`
+
+`/i When the rings activate, ONE PLAYER stands on each rune (more than one does nothing). Stay with the rune as it rotates into its hexagon slot. DO ALL THE RINGS OR WE WIPE. Everyone else, kill the adds.`
+
+
+### Kel'Thuzad
+`/i KILL THE TANK CLONES IMMEDIATELY. Interrupt the clones cast. ALL DPS stack on the person with the swirly circle to share damage - if rooted; use escapes or wait. DO NOT STACK IT ON TANKS.`
+
+`/i When the giant circle opens under KT, ALL DPS and TWO heals go inside using the extra action button. Kill the Remnant, then use the swirly portal to get out when it explodes (60%/20%).`
+
+`/i Afterwards, kill adds and interrupt their casts. Rinse and repeat 3 times. If you get a big green circle around you, move away from other players. Dodge crap on the ground. Hero AFTER second portal.`
+
