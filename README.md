@@ -12,7 +12,7 @@ A brief set of notes you can copy/paste into your Sanctum of Domination LFR to h
 - [Shackles of Fate](#shackles-of-fate)
   * [Guardian of the First Ones](#guardian-of-the-first-ones)
   * [Fatescribe Roh-Kalo](#fatescribe-roh-kalo)
-  * [Kel'Thuzad](#kel-thuzad)
+  * [Kel'Thuzad](#kelthuzad)
 
 
 ## The Jailer's Vanguard
