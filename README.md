@@ -9,6 +9,10 @@ A brief set of notes you can copy/paste into your Sanctum of Domination LFR to h
   * [Remnant of Ner'zhul](#remnant-of-nerzhul)
   * [Soulrender Dormazain](#soulrender-dormazain)
   * [Painsmith Raznal](#painsmith-raznal)
+- [Shackles of Fate](#shackles-of-fate)
+  * [Guardian of the First Ones](#guardian-of-the-first-ones)
+  * [Fatescribe Roh-Kalo](#fatescribe-roh-kalo)
+  * [Kel'Thuzad](#kel-thuzad)
 
 
 ## The Jailer's Vanguard
@@ -59,3 +63,19 @@ It is very helpful if the raid lead or assistant puts a world marker on the cent
 `/i When the Spiked Balls come out, DO NOT TOUCH THEM, you will die. Focus the CENTER BALL. Kill it and run through to the other side.`
 
 `/i If you get chains around you, stay away from other players - you will damage them. You go LAST through the spiked balls. Hero on phase 3.`
+
+
+## Shackles of Fate
+### Guardian of the First Ones
+
+
+
+### Fatescribe Roh-Kalo
+
+
+
+
+### Kel'Thuzad
+
+
+
