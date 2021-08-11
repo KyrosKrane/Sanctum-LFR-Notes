@@ -69,7 +69,7 @@ It is very helpful if the raid lead or assistant puts a world marker on the cent
 ### Guardian of the First Ones
 `/i Stay away from the giant pillars; except when they glow white. The tanks will move the boss to that one. Stand in the in the white circle until the pillar shatters.`
 
-`/i NEVER STAND ON THE TANKS. Run out if you get a yellow circle around you; you're a bomb. Dodge the white lines and the glowy orb floating around.`
+`/i NEVER STAND ON THE TANKS. Run out if you get a yellow circle around you; you're a bomb. Dodge the white lines and the glowy orb floating around. Hero on pull.`
 
 
 ### Fatescribe Roh-Kalo
