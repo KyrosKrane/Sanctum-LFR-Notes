@@ -1,6 +1,8 @@
 # LFR Notes for Sanctum of Domination
 A brief set of notes you can copy/paste into your Sanctum of Domination LFR to help people understand the fights.
 
+For help or suggestions, [visit my discord](https://discord.gg/7sJKfawK8S), or you can open an issue here on Github.
+
 - [The Jailer's Vanguard](#the-jailers-vanguard)
   * [The Tarragrue](#the-tarragrue)
   * [Eye of the Jailer](#eye-of-the-jailer)
