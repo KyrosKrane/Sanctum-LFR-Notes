@@ -15,6 +15,8 @@ For help or suggestions, [visit my discord](https://discord.gg/7sJKfawK8S), or y
   * [Guardian of the First Ones](#guardian-of-the-first-ones)
   * [Fatescribe Roh-Kalo](#fatescribe-roh-kalo)
   * [Kel'Thuzad](#kelthuzad)
+- [The Reckoning](#the-reckoning)
+  * [Sylvanas Windrunner](#sylvanas-windrunner)
 
 
 ## The Jailer's Vanguard
@@ -87,3 +89,11 @@ It is very helpful if the raid lead or assistant puts a world marker on the cent
 
 `/i Afterwards, kill adds and interrupt their casts. Rinse and repeat 3 times. If you get a big green circle around you, move away from other players. Dodge crap on the ground. Hero AFTER second portal.`
 
+
+## The Reckoning
+### Sylvanas Windrunner
+`/i Phase 1: Hit her, dodge everything on the ground, dps the little arrows when they appear. Hero at the start.`
+
+`/i Phase 2: INTERRUPT RUIN OR WE WIPE - RANGE, this means you. Chase Sylvanas across the bridges, don't fall off or in the holes, kill everything in your path.`
+
+`/i Phase 3: tbd. Hero again when the debuff falls off.`
