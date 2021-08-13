@@ -79,6 +79,10 @@ It is very helpful if the raid lead or assistant puts a world marker on the cent
 
 `/i When the rings activate, ONE PLAYER stands on each rune (more than one does nothing). Stay with the rune as it rotates into its hexagon slot. DO ALL THE RINGS OR WE WIPE. Everyone else, kill the adds.`
 
+If tanks need info on the fight:
+
+`/i When the other tank gets a big ring around them, taunt. When you get a big ring, run out. You'll drop an add, just kite it into the dps. Don't let it touch you. Pick up the big adds during transition.`
+
 
 ### Kel'Thuzad
 `/i KILL THE TANK CLONES IMMEDIATELY. Interrupt the clones cast. ALL DPS stack on the person with the swirly circle to share damage - if rooted; use escapes or wait. DO NOT STACK IT ON TANKS.`
