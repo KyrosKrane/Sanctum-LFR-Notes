@@ -8,8 +8,8 @@ For help or suggestions, [visit my discord](https://discord.gg/7sJKfawK8S), or y
   * [Eye of the Jailer](#eye-of-the-jailer)
   * [The Nine](#the-nine)
 - [The Dark Bastille](#the-dark-bastille)
-  * [Remnant of Ner'zhul](#remnant-of-nerzhul)
   * [Soulrender Dormazain](#soulrender-dormazain)
+  * [Remnant of Ner'zhul](#remnant-of-nerzhul)
   * [Painsmith Raznal](#painsmith-raznal)
 - [Shackles of Fate](#shackles-of-fate)
   * [Guardian of the First Ones](#guardian-of-the-first-ones)
@@ -81,7 +81,7 @@ It is very helpful if the raid lead or assistant puts a world marker on the cent
 
 If tanks need info on the fight:
 
-`/i When the other tank gets a big ring around them, taunt. When you get a big ring, run out. You'll drop an add, just kite it into the dps. Don't let it touch you. Pick up the big adds during transition.`
+`/i When you get a big ringaround you, run JUST outside the group. An add will chase you, just kite it into the dps. Don't let it touch you. When the other tank gets the ring, taunt boss. Pick up the big adds during transition.`
 
 
 ### Kel'Thuzad
