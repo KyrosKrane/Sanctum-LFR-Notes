@@ -81,7 +81,11 @@ It is very helpful if the raid lead or assistant puts a world marker on the cent
 
 If tanks need info on the fight:
 
-`/i When you get a big ringaround you, run JUST outside the group. An add will chase you, just kite it into the dps. Don't let it touch you. When the other tank gets the ring, taunt boss. Pick up the big adds during transition.`
+`/i When you get a big ring around you, run JUST outside the group. An add will chase you, just kite it into the dps. Don't let it touch you. When the other tank gets the ring, taunt boss. Pick up the big adds during transition.`
+
+Alternate strategy, with good healers:
+
+`/i When you get a big ring around you, run JUST outside the group. Touch the add that appears. HEALERS - save cooldowns for this. When the other tank gets the ring, taunt boss. Pick up the big adds during transition.`
 
 
 ### Kel'Thuzad
