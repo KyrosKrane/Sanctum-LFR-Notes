@@ -19,11 +19,17 @@ For help or suggestions, [visit my discord](https://discord.gg/7sJKfawK8S), or y
 
 ## The Jailer's Vanguard
 ### The Tarragrue
-While clearing trash, encourage people to pick up the Ever Beating Heart or The Stone Heart anima powers - it's much easier if everyone has one of those.
+While clearing trash:
+
+`/i Try to pick up the Ever Beating Heart or The Stone Ward anima powers - it's much easier if everyone has one of those. Do NOT get Ten of Towers; it's trash on LFR.`
+
+The raid lead or assistant should mark players with the Ever Beating Heart power.
+
+For the boss:
 
 `/i When the floor goes black, run to the clear spot. If you get Chains of Eternity, hide behind someone with the Ever Beating Heart or The Stone Heart anima powers.`
 
-`/i If you get a purple circle around you, RUN AWAY from other players - you'll fear them. Hero on pull.`
+`/i If you get a purple circle around you, STAND STILL and let others move away from you - you'll fear them if you run over them. Hero on pull.`
 
 
 ### Eye of the Jailer
