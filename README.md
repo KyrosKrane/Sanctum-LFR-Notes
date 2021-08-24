@@ -92,8 +92,12 @@ It is very helpful if the raid lead or assistant puts a world marker on the cent
 
 ## The Reckoning
 ### Sylvanas Windrunner
-`/i Phase 1: Dodge everything on the ground, dps the little arrows when they appear, don't let them pull you in. Hero at the start.`
+`/i Phase 1: Dodge everything on the ground, dps the little arrows when they appear, don't let them pull you in. Hero on pull.`
 
-`/i Phase 2: INTERRUPT RUIN OR WE WIPE - RANGE, this means you. Chase Sylvanas across the bridges, don't fall off or in the holes, kill everything in your path.`
+`/i Phase 2: INTERRUPT RUIN OR WE WIPE - RANGE, this means you. Chase Sylvanas across the bridges, don't fall off or in the holes, kill everything in your path. Dodge the black waves coming from Sylvanas.`
 
-`/i Phase 3: tbd. Hero again when the debuff falls off.`
+`/i Phase 3: For Wailing Arrow, JUMP TO NEXT PLATFORM until you explode, then come back. When she does Raze, JUMP TO NEXT PLATFORM before she finishes. Dodge crap on the ground. Hero again when the debuff falls off.`
+
+Extra info
+
+`/i If you run over black puddles, run to a corner to get dispelled and drop them.`
