@@ -108,10 +108,8 @@ Alternate strategy, with good healers:
 ### Sylvanas Windrunner
 `/i Phase 1: Dodge everything on the ground, dps the little arrows when they appear, don't let them pull you in. Hero on pull.`
 
-`/i Phase 2: INTERRUPT RUIN OR WE WIPE - RANGE, this means you. Chase Sylvanas across the bridges, don't fall off or in the holes, kill everything in your path. Dodge the black waves coming from Sylvanas.`
+`/i Phase 2: INTERRUPT RUIN OR WE WIPE - RANGE, this means you. Chase Sylvanas across the bridges, don't fall off or in the holes. Interrupt and kill trash. Spread for white circles. Dodge the black waves coming from Sylvanas.`
 
-`/i Phase 3: For Wailing Arrow, JUMP TO NEXT PLATFORM until you explode, then come back. When she does Raze, JUMP TO NEXT PLATFORM before she finishes. Dodge crap on the ground. Hero again when the debuff falls off.`
+`/i Phase 3: For Wailing Arrow, JUMP TO NEXT PLATFORM until you explode, then come back. When the whole floor goes black, JUMP TO NEXT PLATFORM before she finishes. Dodge crap on the ground. Hero again when the debuff falls off.`
 
-Extra info
-
-`/i If you run over black puddles, run to a corner to get dispelled and drop them.`
+`/i To get to the next platform, just walk off the edge NEAR IT - not a random edge! If you run over black puddles, run to a corner to get dispelled and drop them.`
