@@ -15,6 +15,8 @@ For help or suggestions, [visit my discord](https://discord.gg/7sJKfawK8S), or y
   * [Guardian of the First Ones](#guardian-of-the-first-ones)
   * [Fatescribe Roh-Kalo](#fatescribe-roh-kalo)
   * [Kel'Thuzad](#kelthuzad)
+- [The Reckoning](#the-reckoning)
+  * [Sylvanas Windrunner](#sylvanas-windrunner)
 
 
 ## The Jailer's Vanguard
@@ -101,3 +103,15 @@ Alternate strategy, with good healers:
 
 `/i Afterwards, kill adds and interrupt their casts. Rinse and repeat 3 times. If you get a big green circle around you, move away from other players. Dodge crap on the ground. Hero AFTER second portal.`
 
+
+## The Reckoning
+### Sylvanas Windrunner
+`/i Phase 1: Dodge everything on the ground, dps the little arrows when they appear, don't let them pull you in. Hero on pull.`
+
+`/i Phase 2: INTERRUPT RUIN OR WE WIPE - RANGE, this means you. Chase Sylvanas across the bridges, don't fall off or in the holes, kill everything in your path. Dodge the black waves coming from Sylvanas.`
+
+`/i Phase 3: For Wailing Arrow, JUMP TO NEXT PLATFORM until you explode, then come back. When she does Raze, JUMP TO NEXT PLATFORM before she finishes. Dodge crap on the ground. Hero again when the debuff falls off.`
+
+Extra info
+
+`/i If you run over black puddles, run to a corner to get dispelled and drop them.`
